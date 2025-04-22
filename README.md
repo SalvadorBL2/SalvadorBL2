@@ -40,7 +40,7 @@
 
 ---
 
-![Homer Simpson escondiéndose](https://media.giphy.com/media/143v0Z4767T15e/giphy.gif)
+![Homer escondiéndose en los arbustos](https://media.giphy.com/media/143v0Z4767T15e/giphy.gif)
 
 ---
 
