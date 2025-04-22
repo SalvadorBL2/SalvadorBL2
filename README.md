@@ -1,6 +1,6 @@
 # ¡Hola, mundo! 👋
 
-🎓 Soy **[Salvador]**, estudiante de **ASIR (Administración de Sistemas Informáticos en Red)**.
+🎓 Soy **Salvador**, estudiante de **ASIR (Administración de Sistemas Informáticos en Red)**.
 
 🚀 Estoy empezando en **GitHub** y aquí compartiré mis avances, prácticas y proyectos mientras aprendo sobre:
 
