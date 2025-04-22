@@ -40,8 +40,7 @@
 
 ---
 
-![Homer escondiéndose en los arbustos](https://media.giphy.com/media/143v0Z4767T15e/giphy.gif)
-
+https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzVubmp2MWt3OGxkbjJsZzB6eWM3cDRyaWI0OG5nbWhiM3Ztcmc4dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a93jwI0wkWTQs/giphy.gif
 ---
 
 © 2025 - Hecho con 💻 por Salvador
