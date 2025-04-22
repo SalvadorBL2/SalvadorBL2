@@ -40,7 +40,7 @@
 
 ---
 
-![Banner](https://giphy.com/gifs/the-simpsons-scared-homer-simpson-jUwpNzg9IcyrK)
+![Homer Simpson escondiéndose](https://media.giphy.com/media/143v0Z4767T15e/giphy.gif)
 
 ---
 
