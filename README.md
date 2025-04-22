@@ -1,23 +1,47 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+# ¡Hola, mundo! 👋
 
- 
-</head>
-<body>
-  <header>
-    <h1>¡Hola! 👋</h1>
-    <p>Soy un estudiante de ASIR (Administración de Sistemas Informáticos en Red) empezando en el mundo de GitHub.</p>
-  </header>
+🎓 Soy **[Salvador]**, estudiante de **ASIR (Administración de Sistemas Informáticos en Red)**.
 
-  <p>
-    Aquí compartiré mis proyectos, prácticas y avances a medida que aprendo más sobre administración de sistemas, redes, y desarrollo. ¡Gracias por pasarte por aquí!
-  </p>
+🚀 Estoy empezando en **GitHub** y aquí compartiré mis avances, prácticas y proyectos mientras aprendo sobre:
 
-  <footer>
-    © 2025 - <a href="https://github.com/SalvadorBL2">GitHub</a>
-  </footer>
-</body>
-</html>
+- 💻 Administración de sistemas
+- 🌐 Redes y servidores
+- 🛠️ Automatización y scripting
+- ☁️ Tecnologías cloud y virtualización
+
+---
+
+## 📌 ¿Qué vas a encontrar en mi perfil?
+
+🧪 Proyectos de clase  
+📁 Apuntes y recursos útiles  
+🤖 Scripts en Bash, PowerShell y más  
+
+---
+
+## 💡 Actualmente aprendiendo
+
+- Linux & Windows Server
+- Docker y redes virtuales
+- Git y GitHub (obvio 😄)
+
+---
+
+## 📫 Conecta conmigo
+
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SalvadorBL2)
+
+---
+
+## ⚡ Dato curioso
+
+> _"El primer script que escribí... ¡borró toda una carpeta sin querer!_" 😅  
+> Pero así se aprende 🚀
+
+---
+
+![Banner](https://media.giphy.com/media/d31vTpVi1LAcDvdm/giphy.gif)
+
+---
+
+© 2025 - Hecho con 💻 por [Salvador]
