@@ -40,8 +40,8 @@
 
 ---
 
-![Banner](https://media.giphy.com/media/d31vTpVi1LAcDvdm/giphy.gif)
+![Banner](https://giphy.com/gifs/the-simpsons-scared-homer-simpson-jUwpNzg9IcyrK)
 
 ---
 
-© 2025 - Hecho con 💻 por [Salvador]
+© 2025 - Hecho con 💻 por Salvador
