@@ -8,6 +8,10 @@
 - 🌐 Redes y servidores
 - 🛠️ Automatización y scripting
 - ☁️ Tecnologías cloud y virtualización
+- 🧠 Bases de datos y consultas SQL
+- 🖥️ Implantación de sistemas operativos
+- 🔌 Configuración y gestión de redes
+- 🧾 Lenguaje de marcas y estándares web
 
 ---
 
@@ -16,14 +20,21 @@
 🧪 Proyectos de clase  
 📁 Apuntes y recursos útiles  
 🤖 Scripts en Bash, PowerShell y más  
+🗄️ Consultas y estructuras de bases de datos  
+🖧 Laboratorios de redes y simulaciones  
+📄 Ejercicios y prácticas con HTML, XML y más  
 
 ---
 
 ## 💡 Actualmente aprendiendo
 
-- Linux & Windows Server
-- Docker y redes virtuales
-- Git y GitHub (obvio 😄)
+- Linux & Windows Server  
+- Docker y redes virtuales  
+- Git y GitHub (obvio 😄)  
+- **MySQL** y modelado de datos  
+- **PXE**, **scripts de instalación**, y entornos multiSO  
+- **VLANs**, enrutamiento estático/dinámico y herramientas como **Wireshark**  
+- **HTML5**, **XML**, y estilos con **CSS**
 
 ---
 
@@ -44,4 +55,4 @@
 
 ---
 
-© 2025 - Hecho con 💻 por Salvador
+© 2025
